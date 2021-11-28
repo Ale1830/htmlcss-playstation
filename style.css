@@ -67,3 +67,26 @@
     color: white;
     text-decoration: none;
 }
+
+.at_main_ps5 img{
+    width: 100%;
+}
+
+/* <!-- section Ps5 3 --> */
+
+.at_thumbs{
+    width: 100%;
+}
+
+.at_thumb_border{
+
+}
+
+/* section takes two  */
+
+.at_jumbo_bg_two{
+    height: 600px;
+    background-image: url("img /it-takes-two-hero-banner-desktop.jpg");
+    background-size:cover;
+    background-position: center;
+}
