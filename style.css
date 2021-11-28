@@ -45,6 +45,7 @@
 
 .at_plays img{
     width: 100%;
+    border-radius: 30px;
 }
 
 /* section 6 img  */
@@ -79,7 +80,7 @@
 }
 
 .at_thumb_border{
-
+  border-bottom: 2px solid rgb(0, 112, 209);
 }
 
 /* section takes two  */
@@ -89,4 +90,11 @@
     background-image: url("img /it-takes-two-hero-banner-desktop.jpg");
     background-size:cover;
     background-position: center;
+}
+
+/* section plays */
+
+.at_bg_plays{
+    background-color: black;
+    color: white;
 }
