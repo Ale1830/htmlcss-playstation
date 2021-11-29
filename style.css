@@ -121,3 +121,23 @@ border-radius: 25px;
 color:rgb(0, 112, 209);
 text-decoration: none;
 }
+
+/* section ps now  */
+
+.at_now_bg{
+    background-color: rgb(6, 26, 64);
+    color: white;
+}
+
+.at_pshome_img{
+    width: 100%;
+}
+
+.at_button_now{   
+font-size: 20px;    
+background-color: white;
+padding: 7px;
+border-radius: 25px;
+color:black;
+}
+
