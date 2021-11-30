@@ -17,7 +17,24 @@
 }
 
 /* section nav  */
+.at_btn_radius{
+    border-radius: 20px;
+}
 
+.at_search_btn{
+    border: none;
+    color: rgba(0,0,0, .7);
+    background-color: white;
+    height: 100%;
+}
+.at_search_btn:hover{
+    border: 1px solid black;
+    color: black;
+    background-color: white;
+}
+.at_my_ul{
+    list-style-type: none;
+}
 
 /* section jumbo  */
 
@@ -139,5 +156,34 @@ background-color: white;
 padding: 7px;
 border-radius: 25px;
 color:black;
+}
+
+/* footer  */
+
+footer{
+    background-color: #00419e;
+    color: white;
+}
+.at_w_global{
+    width: 20px;
+}
+.at_w_ps_footer{
+    width: 100px;
+    display: block;
+    margin: 10px;
+}
+.at_ul_footer{
+    padding-top: 20px;
+    list-style: none;
+}
+footer ul li a{
+    color: white;
+    text-decoration: none;
+    opacity: .7;
+}
+footer ul li a:hover{
+    color: white;
+    text-decoration: none;
+    opacity: 1;
 }
 
